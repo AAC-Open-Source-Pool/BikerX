@@ -20,11 +20,11 @@ BikerX represents an advanced mobile application tailored for the meticulous man
 ## Requirements
 |||
 |--|--|
-|[pinput 3.0.1](https://www.python.org)|<img src="https://imgur.com/68Q9X2h.png" width="130px" height="25px"></a><br>|
-|[firebase storage 11.2.7](https://github.com/flairNLP/flair)|<img src="https://imgur.com/9ZXPj2Q.png" width="130px" height="25px"></a><br>|
-|[geocoding 2.0.5](https://streamlit.io)|<img src="https://imgur.com/Amcsd6l.png" width="130px" height="25px"></a><br>|
-|[provider 6.0.5](https://pypi.org/project/easyocr/)|<img src="https://imgur.com/yMvnYDA.png" width="130px" height="25px"></a><br>|
-|[flutter credit card 11.2.7](https://matplotlib.org)|<img src="https://imgur.com/Vldhexn.png" width="130px" height="25px"></a><br>|
+|[pinput 3.0.1](https://pub.dev/packages/pinput)|<img src="https://imgur.com/68Q9X2h.png" width="130px" height="25px"></a><br>|
+|[firebase storage 11.2.7](https://firebase.google.com/docs/storage)|<img src="https://imgur.com/9ZXPj2Q.png" width="130px" height="25px"></a><br>|
+|[geocoding 2.0.5](https://pub.dev/packages/geocoding)|<img src="https://imgur.com/Amcsd6l.png" width="130px" height="25px"></a><br>|
+|[provider 6.0.5](https://pub.dev/packages/provider)|<img src="https://imgur.com/yMvnYDA.png" width="130px" height="25px"></a><br>|
+|[flutter_credit_card 11.2.7](https://pub.dev/packages/flutter_credit_card)|<img src="https://imgur.com/Vldhexn.png" width="130px" height="25px"></a><br>|
 
 # How to use
 1. Clone this repo. <br>
