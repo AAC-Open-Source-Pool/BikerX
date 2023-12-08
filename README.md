@@ -26,7 +26,15 @@ BikerX represents an advanced mobile application tailored for the meticulous man
 |[provider 6.0.5](https://pypi.org/project/easyocr/)|<img src="https://imgur.com/yMvnYDA.png" width="130px" height="25px"></a><br>|
 |[flutter credit card 11.2.7](https://matplotlib.org)|<img src="https://imgur.com/Vldhexn.png" width="130px" height="25px"></a><br>|
 
-## Installation and usage
+# How to use
+1. Clone this repo. <br>
+-  ```terminal
+   git clone https://github.com/AAC-OSP/
+   ```
+
+1. Install the required libraries from [Requirements](#requirements) <br>
+1. Execute the python script <br>
+1. Add star to this repo if you liked it 😄
 
 
 ## Contribution 
