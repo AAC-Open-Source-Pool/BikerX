@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Introduction](#introduction) <br>
 - [Requirements](#requirements) <br>
-- [How to use](#installation-and-usage) <br>
+- [How to use](#how-to-use) <br>
 - [Contribution](#contribution)
 
 ## Introduction 
