@@ -29,7 +29,7 @@ BikerX represents an advanced mobile application tailored for the meticulous man
 # How to use
 1. Clone this repo. <br>
 -  ```terminal
-   git clone https://github.com/AAC-OSP/BikerX.git
+   git clone https://github.com/AAC-Open-Source-Pool/BikerX.git
    ```
 
 1. Install the required libraries from [Requirements](#requirements) <br>
