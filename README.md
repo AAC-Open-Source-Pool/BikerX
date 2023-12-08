@@ -10,12 +10,6 @@
 
 ## Introduction 
 BikerX represents an advanced mobile application tailored for the meticulous management of motorcycle maintenance, catering to the diverse needs of motorcycle enthusiasts. This user-centric platform features an intuitive interface, facilitating the seamless scheduling of routine maintenance appointments, tracking comprehensive service histories, and issuing timely reminders for critical tasks. BikerX, thus, ensures the continuous optimal performance and longevity of users' motorcycles with minimal effort.
-
-## Table of Contents
-- [Introduction](#introduction) <br>
-- [Requirements](#requirements) <br>
-- [How to use](#installation-and-usage) <br>
-- [Contribution](#contribution)
   
 ## Requirements
 |||
@@ -26,7 +20,7 @@ BikerX represents an advanced mobile application tailored for the meticulous man
 |[provider 6.0.5](https://pub.dev/packages/provider)|<img src="https://imgur.com/yMvnYDA.png" width="130px" height="25px"></a><br>|
 |[flutter_credit_card 11.2.7](https://pub.dev/packages/flutter_credit_card)|<img src="https://imgur.com/Vldhexn.png" width="130px" height="25px"></a><br>|
 
-# How to use
+## How to use
 1. Clone this repo. <br>
 -  ```terminal
    git clone https://github.com/AAC-Open-Source-Pool/BikerX.git
